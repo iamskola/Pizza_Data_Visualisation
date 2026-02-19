@@ -145,6 +145,11 @@ For Policy Makers (Franchise Owners / Industry Regulators)
 3. Economic Strategy
    - Recognize the role of pizza outlets in local economies (employment, supply chains).  
    - Support small outlets with training in data analytics and digital marketing.
+  
+
+
+
+link to the tools and code used for this data analysis can be accessed tbhrough this link: https://github.com/iamskola/Pizza_Data_Visualisation
 
 Conclusion
 This analysis reveals that pizza sales are concentrated, seasonal, and socially driven. By focusing on bestselling items, optimizing pricing, and aligning operations with demand cycles, producers can maximize profitability. Policy makers, meanwhile, can foster industry resilience by promoting data-driven practices and menu diversification.  
